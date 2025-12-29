@@ -559,7 +559,7 @@ def render_chart_images():
             try:
                 drawer = TuViChartDrawer(figsize=(10, 10))
                 chart_buf = drawer.draw_chart(st.session_state.tuvi_chart_data)
-                st.image(chart_buf, use_container_width=True)
+                st.image(chart_buf, width="stretch")
             except Exception as e:
                 st.warning(f"Không thể vẽ bản đồ Tử Vi: {e}")
 
@@ -570,7 +570,7 @@ def render_chart_images():
             try:
                 drawer = WesternChartDrawer(figsize=(10, 10))
                 chart_buf = drawer.draw_chart(st.session_state.western_chart_data)
-                st.image(chart_buf, use_container_width=True)
+                st.image(chart_buf, width="stretch")
             except Exception as e:
                 st.warning(f"Không thể vẽ Natal Chart: {e}")
 

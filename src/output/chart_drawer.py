@@ -11,8 +11,8 @@ from typing import Optional, List, Dict, Tuple
 from io import BytesIO
 import math
 
-# Configure matplotlib for Vietnamese font support
-plt.rcParams['font.family'] = ['DejaVu Sans', 'Arial Unicode MS', 'sans-serif']
+# Configure matplotlib for Vietnamese font support (Windows compatible)
+plt.rcParams['font.family'] = ['DejaVu Sans', 'Segoe UI', 'Microsoft YaHei', 'sans-serif']
 
 
 class TuViChartDrawer:
