@@ -1,0 +1,182 @@
+{
+  "description": "14 Chính tinh Tử Vi Đẩu Số",
+  "tu_vi_group": {
+    "description": "Nhóm Tử Vi - 6 sao",
+    "stars": {
+      "Tử Vi": {
+        "element": "Thổ",
+        "nature": "Đế tinh, chủ về quyền quý",
+        "meaning": "Vua, quyền lực, uy quyền, cao quý",
+        "good_positions": ["Tý", "Ngọ", "Mão", "Dậu"],
+        "bad_positions": []
+      },
+      "Thiên Cơ": {
+        "element": "Mộc",
+        "nature": "Mưu thần, chủ về trí tuệ",
+        "meaning": "Thông minh, mưu lược, biến hóa",
+        "good_positions": ["Dần", "Thân", "Mão", "Dậu"],
+        "bad_positions": ["Tý", "Ngọ"]
+      },
+      "Thái Dương": {
+        "element": "Hỏa",
+        "nature": "Quý tinh, chủ về quang minh",
+        "meaning": "Sáng suốt, hào phóng, bác ái",
+        "good_positions": ["Mão", "Thìn", "Tỵ", "Ngọ"],
+        "bad_positions": ["Dậu", "Tuất", "Hợi", "Tý"]
+      },
+      "Vũ Khúc": {
+        "element": "Kim",
+        "nature": "Tài tinh, chủ về tiền tài",
+        "meaning": "Tài chính, kinh doanh, quyết đoán",
+        "good_positions": ["Thìn", "Tuất", "Sửu", "Mùi"],
+        "bad_positions": ["Mão", "Dậu"]
+      },
+      "Thiên Đồng": {
+        "element": "Thủy",
+        "nature": "Phúc tinh, chủ về phúc đức",
+        "meaning": "Phúc lộc, hưởng thụ, hiền lành",
+        "good_positions": ["Dần", "Thân", "Tỵ", "Hợi"],
+        "bad_positions": ["Tý", "Ngọ"]
+      },
+      "Liêm Trinh": {
+        "element": "Hỏa",
+        "nature": "Tù tinh, chủ về pháp luật",
+        "meaning": "Chính trực, cứng rắn, pháp luật",
+        "good_positions": ["Dần", "Thân"],
+        "bad_positions": ["Tỵ", "Hợi"]
+      }
+    },
+    "position_formula": {
+      "base": "Tử Vi vị trí = f(Cục, Ngày âm)",
+      "others": "Các sao khác theo Tử Vi"
+    }
+  },
+  "thien_phu_group": {
+    "description": "Nhóm Thiên Phủ - 8 sao",
+    "stars": {
+      "Thiên Phủ": {
+        "element": "Thổ",
+        "nature": "Kho tinh, chủ về tài vật",
+        "meaning": "Của cải, kho tàng, ổn định",
+        "good_positions": ["Dần", "Thân", "Tỵ", "Hợi"],
+        "bad_positions": []
+      },
+      "Thái Âm": {
+        "element": "Thủy",
+        "nature": "Phú tinh, chủ về tài phú",
+        "meaning": "Tài sản, bất động sản, nữ tính",
+        "good_positions": ["Dậu", "Tuất", "Hợi", "Tý"],
+        "bad_positions": ["Mão", "Thìn", "Tỵ", "Ngọ"]
+      },
+      "Tham Lang": {
+        "element": "Thủy",
+        "nature": "Đào hoa, chủ về dục vọng",
+        "meaning": "Ham muốn, tham vọng, nghệ thuật",
+        "good_positions": ["Thìn", "Tuất", "Tý", "Ngọ"],
+        "bad_positions": ["Dần", "Thân"]
+      },
+      "Cự Môn": {
+        "element": "Thủy",
+        "nature": "Ám tinh, chủ về thị phi",
+        "meaning": "Lời nói, tranh luận, khẩu tài",
+        "good_positions": ["Tý", "Ngọ", "Mão", "Dậu"],
+        "bad_positions": ["Dần", "Thân"]
+      },
+      "Thiên Tướng": {
+        "element": "Thủy",
+        "nature": "Ấn tinh, chủ về quan lộc",
+        "meaning": "Danh vọng, chức tước, quý nhân",
+        "good_positions": ["Dần", "Thân", "Mão", "Dậu"],
+        "bad_positions": []
+      },
+      "Thiên Lương": {
+        "element": "Thổ",
+        "nature": "Ấm tinh, chủ về thọ mệnh",
+        "meaning": "Thọ, đức độ, che chở",
+        "good_positions": ["Tý", "Ngọ", "Mão", "Dậu"],
+        "bad_positions": ["Dần", "Thân"]
+      },
+      "Thất Sát": {
+        "element": "Kim",
+        "nature": "Sát tinh, chủ về uy quyền",
+        "meaning": "Uy lực, quyết đoán, sát phạt",
+        "good_positions": ["Dần", "Thân", "Tý", "Ngọ"],
+        "bad_positions": ["Mão", "Dậu"]
+      },
+      "Phá Quân": {
+        "element": "Thủy",
+        "nature": "Hao tinh, chủ về biến động",
+        "meaning": "Phá vỡ, đổi mới, khai phá",
+        "good_positions": ["Dần", "Thân", "Tý", "Ngọ"],
+        "bad_positions": ["Thìn", "Tuất"]
+      }
+    },
+    "position_formula": {
+      "base": "Thiên Phủ = đối xứng Tử Vi qua trục Dần-Thân",
+      "others": "Các sao khác theo Thiên Phủ nghịch chiều"
+    }
+  },
+  "tu_vi_position_table": {
+    "description": "Vị trí Tử Vi theo Cục và Ngày âm",
+    "Thủy nhị cục": {
+      "1": "Dần", "2": "Mão", "3": "Thìn", "4": "Tỵ", "5": "Ngọ",
+      "6": "Mùi", "7": "Thân", "8": "Dậu", "9": "Tuất", "10": "Hợi",
+      "11": "Tý", "12": "Sửu", "13": "Dần", "14": "Mão", "15": "Thìn",
+      "16": "Tỵ", "17": "Ngọ", "18": "Mùi", "19": "Thân", "20": "Dậu",
+      "21": "Tuất", "22": "Hợi", "23": "Tý", "24": "Sửu", "25": "Dần",
+      "26": "Mão", "27": "Thìn", "28": "Tỵ", "29": "Ngọ", "30": "Mùi"
+    },
+    "Mộc tam cục": {
+      "1": "Thìn", "2": "Thìn", "3": "Tỵ", "4": "Tỵ", "5": "Ngọ",
+      "6": "Ngọ", "7": "Mùi", "8": "Mùi", "9": "Thân", "10": "Thân",
+      "11": "Dậu", "12": "Dậu", "13": "Tuất", "14": "Tuất", "15": "Hợi",
+      "16": "Hợi", "17": "Tý", "18": "Tý", "19": "Sửu", "20": "Sửu",
+      "21": "Dần", "22": "Dần", "23": "Mão", "24": "Mão", "25": "Thìn",
+      "26": "Thìn", "27": "Tỵ", "28": "Tỵ", "29": "Ngọ", "30": "Ngọ"
+    },
+    "Kim tứ cục": {
+      "1": "Ngọ", "2": "Ngọ", "3": "Ngọ", "4": "Mùi", "5": "Mùi",
+      "6": "Mùi", "7": "Thân", "8": "Thân", "9": "Thân", "10": "Dậu",
+      "11": "Dậu", "12": "Dậu", "13": "Tuất", "14": "Tuất", "15": "Tuất",
+      "16": "Hợi", "17": "Hợi", "18": "Hợi", "19": "Tý", "20": "Tý",
+      "21": "Tý", "22": "Sửu", "23": "Sửu", "24": "Sửu", "25": "Dần",
+      "26": "Dần", "27": "Dần", "28": "Mão", "29": "Mão", "30": "Mão"
+    },
+    "Thổ ngũ cục": {
+      "1": "Thân", "2": "Thân", "3": "Thân", "4": "Thân", "5": "Dậu",
+      "6": "Dậu", "7": "Dậu", "8": "Dậu", "9": "Tuất", "10": "Tuất",
+      "11": "Tuất", "12": "Tuất", "13": "Hợi", "14": "Hợi", "15": "Hợi",
+      "16": "Hợi", "17": "Tý", "18": "Tý", "19": "Tý", "20": "Tý",
+      "21": "Sửu", "22": "Sửu", "23": "Sửu", "24": "Sửu", "25": "Dần",
+      "26": "Dần", "27": "Dần", "28": "Dần", "29": "Mão", "30": "Mão"
+    },
+    "Hỏa lục cục": {
+      "1": "Tuất", "2": "Tuất", "3": "Tuất", "4": "Tuất", "5": "Tuất",
+      "6": "Hợi", "7": "Hợi", "8": "Hợi", "9": "Hợi", "10": "Hợi",
+      "11": "Tý", "12": "Tý", "13": "Tý", "14": "Tý", "15": "Tý",
+      "16": "Sửu", "17": "Sửu", "18": "Sửu", "19": "Sửu", "20": "Sửu",
+      "21": "Dần", "22": "Dần", "23": "Dần", "24": "Dần", "25": "Dần",
+      "26": "Mão", "27": "Mão", "28": "Mão", "29": "Mão", "30": "Mão"
+    }
+  },
+  "tu_vi_group_offsets": {
+    "description": "Offset từ Tử Vi đến các sao trong nhóm (thuận chiều)",
+    "Tử Vi": 0,
+    "Thiên Cơ": -1,
+    "Thái Dương": -2,
+    "Vũ Khúc": -3,
+    "Thiên Đồng": -4,
+    "Liêm Trinh": -5
+  },
+  "thien_phu_group_offsets": {
+    "description": "Offset từ Thiên Phủ đến các sao trong nhóm (nghịch chiều)",
+    "Thiên Phủ": 0,
+    "Thái Âm": 1,
+    "Tham Lang": 2,
+    "Cự Môn": 3,
+    "Thiên Tướng": 4,
+    "Thiên Lương": 5,
+    "Thất Sát": 6,
+    "Phá Quân": 10
+  }
+}

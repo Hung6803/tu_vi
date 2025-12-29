@@ -1,0 +1,2 @@
+[console_scripts]
+astrology = cli.main:app

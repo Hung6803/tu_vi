@@ -1,0 +1,35 @@
+Metadata-Version: 2.4
+Name: astrology-tool
+Version: 1.0.0
+Summary: Astrology analysis tool combining Tử Vi Đẩu Số and Western Astrology with AI interpretation
+Author: Astrology Tool Team
+License: MIT
+Keywords: astrology,tuvi,horoscope,zodiac,deepseek
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: pydantic>=2.0.0
+Requires-Dist: pyswisseph>=2.10.0
+Requires-Dist: lunardate>=0.2.2
+Requires-Dist: geopy>=2.4.0
+Requires-Dist: timezonefinder>=6.2.0
+Requires-Dist: pytz>=2024.1
+Requires-Dist: openai>=1.0.0
+Requires-Dist: typer>=0.9.0
+Requires-Dist: rich>=13.7.0
+Requires-Dist: jinja2>=3.1.2
+Requires-Dist: pyyaml>=6.0.1
+Requires-Dist: python-dateutil>=2.8.2
+Requires-Dist: python-dotenv>=1.0.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0.0; extra == "dev"
+Requires-Dist: pytest-cov>=4.1.0; extra == "dev"
+Requires-Dist: pytest-asyncio>=0.23.0; extra == "dev"
+Requires-Dist: black>=24.0.0; extra == "dev"
+Requires-Dist: ruff>=0.1.0; extra == "dev"
+Provides-Extra: pdf
+Requires-Dist: reportlab>=4.0.0; extra == "pdf"

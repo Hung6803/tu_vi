@@ -1,0 +1,23 @@
+{
+  "bac ninh, vietnam": {
+    "latitude": 21.3282166,
+    "longitude": 106.4625257,
+    "display_name": "Tỉnh Bắc Ninh, Việt Nam",
+    "country": "Việt Nam",
+    "country_code": "VN"
+  },
+  "hanoi, vietnam": {
+    "latitude": 21.0283334,
+    "longitude": 105.854041,
+    "display_name": "Thành phố Hà Nội, Việt Nam",
+    "country": "Việt Nam",
+    "country_code": "VN"
+  },
+  "hà nội, việt nam": {
+    "latitude": 21.0283334,
+    "longitude": 105.854041,
+    "display_name": "Thành phố Hà Nội, Việt Nam",
+    "country": "Việt Nam",
+    "country_code": "VN"
+  }
+}

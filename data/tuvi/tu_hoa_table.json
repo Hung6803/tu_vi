@@ -1,0 +1,103 @@
+{
+  "description": "Bảng Tứ Hóa theo Can năm sinh",
+  "tu_hoa_types": {
+    "Hóa Lộc": {
+      "description": "Đại diện cho tài lộc, may mắn, thuận lợi",
+      "nature": "positive"
+    },
+    "Hóa Quyền": {
+      "description": "Đại diện cho quyền lực, uy tín, khả năng kiểm soát",
+      "nature": "positive"
+    },
+    "Hóa Khoa": {
+      "description": "Đại diện cho danh tiếng, học vấn, thanh danh",
+      "nature": "positive"
+    },
+    "Hóa Kỵ": {
+      "description": "Đại diện cho trở ngại, khó khăn, phiền não",
+      "nature": "negative"
+    }
+  },
+  "table": {
+    "Giáp": {
+      "Hóa Lộc": "Liêm Trinh",
+      "Hóa Quyền": "Phá Quân",
+      "Hóa Khoa": "Vũ Khúc",
+      "Hóa Kỵ": "Thái Dương"
+    },
+    "Ất": {
+      "Hóa Lộc": "Thiên Cơ",
+      "Hóa Quyền": "Thiên Lương",
+      "Hóa Khoa": "Tử Vi",
+      "Hóa Kỵ": "Thái Âm"
+    },
+    "Bính": {
+      "Hóa Lộc": "Thiên Đồng",
+      "Hóa Quyền": "Thiên Cơ",
+      "Hóa Khoa": "Văn Xương",
+      "Hóa Kỵ": "Liêm Trinh"
+    },
+    "Đinh": {
+      "Hóa Lộc": "Thái Âm",
+      "Hóa Quyền": "Thiên Đồng",
+      "Hóa Khoa": "Thiên Cơ",
+      "Hóa Kỵ": "Cự Môn"
+    },
+    "Mậu": {
+      "Hóa Lộc": "Tham Lang",
+      "Hóa Quyền": "Thái Âm",
+      "Hóa Khoa": "Hữu Bật",
+      "Hóa Kỵ": "Thiên Cơ"
+    },
+    "Kỷ": {
+      "Hóa Lộc": "Vũ Khúc",
+      "Hóa Quyền": "Tham Lang",
+      "Hóa Khoa": "Thiên Lương",
+      "Hóa Kỵ": "Văn Khúc"
+    },
+    "Canh": {
+      "Hóa Lộc": "Thái Dương",
+      "Hóa Quyền": "Vũ Khúc",
+      "Hóa Khoa": "Thái Âm",
+      "Hóa Kỵ": "Thiên Đồng"
+    },
+    "Tân": {
+      "Hóa Lộc": "Cự Môn",
+      "Hóa Quyền": "Thái Dương",
+      "Hóa Khoa": "Văn Khúc",
+      "Hóa Kỵ": "Văn Xương"
+    },
+    "Nhâm": {
+      "Hóa Lộc": "Thiên Lương",
+      "Hóa Quyền": "Tử Vi",
+      "Hóa Khoa": "Tả Phụ",
+      "Hóa Kỵ": "Vũ Khúc"
+    },
+    "Quý": {
+      "Hóa Lộc": "Phá Quân",
+      "Hóa Quyền": "Cự Môn",
+      "Hóa Khoa": "Thái Âm",
+      "Hóa Kỵ": "Tham Lang"
+    }
+  },
+  "star_abbreviations": {
+    "Tử Vi": "Tử",
+    "Thiên Cơ": "Cơ",
+    "Thái Dương": "Dương",
+    "Vũ Khúc": "Vũ",
+    "Thiên Đồng": "Đồng",
+    "Liêm Trinh": "Liêm",
+    "Thiên Phủ": "Phủ",
+    "Thái Âm": "Âm",
+    "Tham Lang": "Tham",
+    "Cự Môn": "Cự",
+    "Thiên Tướng": "Tướng",
+    "Thiên Lương": "Lương",
+    "Thất Sát": "Sát",
+    "Phá Quân": "Phá",
+    "Văn Xương": "Xương",
+    "Văn Khúc": "Khúc",
+    "Tả Phụ": "Tả",
+    "Hữu Bật": "Hữu"
+  }
+}

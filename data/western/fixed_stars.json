@@ -1,0 +1,142 @@
+{
+  "version": "1.0",
+  "description": "Major fixed stars for Western Astrology (J2000 positions)",
+  "default_orb": 1.5,
+  "stars": {
+    "Regulus": {
+      "longitude": 149.83,
+      "constellation": "Leo",
+      "magnitude": 1.35,
+      "nature": ["Mars", "Jupiter"],
+      "keywords": ["royalty", "success", "leadership", "fame"],
+      "description": "Heart of the Lion, royal star",
+      "description_vi": "Trái tim Sư Tử, sao hoàng gia"
+    },
+    "Spica": {
+      "longitude": 203.83,
+      "constellation": "Virgo",
+      "magnitude": 0.98,
+      "nature": ["Venus", "Mars"],
+      "keywords": ["brilliance", "talent", "honor", "wealth"],
+      "description": "Ear of Wheat, gifts and abilities",
+      "description_vi": "Bông lúa, tài năng và khả năng"
+    },
+    "Antares": {
+      "longitude": 249.67,
+      "constellation": "Scorpio",
+      "magnitude": 1.06,
+      "nature": ["Mars", "Jupiter"],
+      "keywords": ["intensity", "obsession", "success", "danger"],
+      "description": "Heart of the Scorpion, rival of Mars",
+      "description_vi": "Trái tim Bọ Cạp, đối thủ của Hỏa tinh"
+    },
+    "Aldebaran": {
+      "longitude": 69.83,
+      "constellation": "Taurus",
+      "magnitude": 0.87,
+      "nature": ["Mars"],
+      "keywords": ["integrity", "honor", "courage", "success"],
+      "description": "Eye of the Bull, watcher of the East",
+      "description_vi": "Mắt Kim Ngưu, người canh phương Đông"
+    },
+    "Fomalhaut": {
+      "longitude": 333.83,
+      "constellation": "Piscis Austrinus",
+      "magnitude": 1.16,
+      "nature": ["Venus", "Mercury"],
+      "keywords": ["dreams", "idealism", "fame", "magic"],
+      "description": "Mouth of the Southern Fish, royal star",
+      "description_vi": "Miệng Cá Nam, sao hoàng gia"
+    },
+    "Algol": {
+      "longitude": 56.17,
+      "constellation": "Perseus",
+      "magnitude": 2.12,
+      "nature": ["Saturn", "Jupiter"],
+      "keywords": ["intensity", "passion", "misfortune", "transformation"],
+      "description": "Head of Medusa, the Demon Star",
+      "description_vi": "Đầu Medusa, sao Quỷ"
+    },
+    "Sirius": {
+      "longitude": 104.08,
+      "constellation": "Canis Major",
+      "magnitude": -1.46,
+      "nature": ["Jupiter", "Mars"],
+      "keywords": ["ambition", "fame", "pride", "wealth"],
+      "description": "Dog Star, brightest star in sky",
+      "description_vi": "Sao Thiên Lang, sáng nhất bầu trời"
+    },
+    "Vega": {
+      "longitude": 285.17,
+      "constellation": "Lyra",
+      "magnitude": 0.03,
+      "nature": ["Venus", "Mercury"],
+      "keywords": ["charm", "artistic", "refined", "idealistic"],
+      "description": "Falling Eagle, artistic talent",
+      "description_vi": "Chim Ưng rơi, tài năng nghệ thuật"
+    },
+    "Capella": {
+      "longitude": 81.83,
+      "constellation": "Auriga",
+      "magnitude": 0.08,
+      "nature": ["Mars", "Mercury"],
+      "keywords": ["curiosity", "love of learning", "honors"],
+      "description": "Little She-Goat, inquisitive mind",
+      "description_vi": "Dê nhỏ, trí tò mò"
+    },
+    "Rigel": {
+      "longitude": 78.67,
+      "constellation": "Orion",
+      "magnitude": 0.18,
+      "nature": ["Jupiter", "Mars"],
+      "keywords": ["ambition", "education", "teaching", "honor"],
+      "description": "Left foot of Orion, benevolent influence",
+      "description_vi": "Chân trái Orion, ảnh hưởng tốt lành"
+    },
+    "Procyon": {
+      "longitude": 115.67,
+      "constellation": "Canis Minor",
+      "magnitude": 0.40,
+      "nature": ["Mercury", "Mars"],
+      "keywords": ["activity", "violence", "sudden success"],
+      "description": "Before the Dog, sudden rise",
+      "description_vi": "Trước Thiên Lang, thăng tiến đột ngột"
+    },
+    "Betelgeuse": {
+      "longitude": 88.79,
+      "constellation": "Orion",
+      "magnitude": 0.45,
+      "nature": ["Mars", "Mercury"],
+      "keywords": ["success", "fame", "wealth", "honor"],
+      "description": "Shoulder of Orion, great fortune",
+      "description_vi": "Vai Orion, vận may lớn"
+    },
+    "Polaris": {
+      "longitude": 28.55,
+      "constellation": "Ursa Minor",
+      "magnitude": 1.97,
+      "nature": ["Saturn", "Venus"],
+      "keywords": ["guidance", "direction", "spiritual", "illness"],
+      "description": "North Star, spiritual guidance",
+      "description_vi": "Sao Bắc Cực, dẫn đường tâm linh"
+    },
+    "Deneb": {
+      "longitude": 320.17,
+      "constellation": "Cygnus",
+      "magnitude": 1.25,
+      "nature": ["Venus", "Mercury"],
+      "keywords": ["intelligence", "creativity", "idealism"],
+      "description": "Tail of the Swan, artistic mind",
+      "description_vi": "Đuôi Thiên Nga, trí nghệ thuật"
+    },
+    "Altair": {
+      "longitude": 301.83,
+      "constellation": "Aquila",
+      "magnitude": 0.76,
+      "nature": ["Mars", "Jupiter"],
+      "keywords": ["boldness", "confidence", "ambition"],
+      "description": "Flying Eagle, daring nature",
+      "description_vi": "Chim Ưng bay, bản tính táo bạo"
+    }
+  }
+}

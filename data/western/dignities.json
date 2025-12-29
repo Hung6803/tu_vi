@@ -1,0 +1,116 @@
+{
+  "version": "1.0",
+  "description": "Planet dignities - domicile, exaltation, detriment, fall",
+  "planets": {
+    "Sun": {
+      "domicile": ["Leo"],
+      "exaltation": ["Aries"],
+      "detriment": ["Aquarius"],
+      "fall": ["Libra"],
+      "joy_house": 9
+    },
+    "Moon": {
+      "domicile": ["Cancer"],
+      "exaltation": ["Taurus"],
+      "detriment": ["Capricorn"],
+      "fall": ["Scorpio"],
+      "joy_house": 3
+    },
+    "Mercury": {
+      "domicile": ["Gemini", "Virgo"],
+      "exaltation": ["Virgo"],
+      "detriment": ["Sagittarius", "Pisces"],
+      "fall": ["Pisces"],
+      "joy_house": 1
+    },
+    "Venus": {
+      "domicile": ["Taurus", "Libra"],
+      "exaltation": ["Pisces"],
+      "detriment": ["Scorpio", "Aries"],
+      "fall": ["Virgo"],
+      "joy_house": 5
+    },
+    "Mars": {
+      "domicile": ["Aries", "Scorpio"],
+      "exaltation": ["Capricorn"],
+      "detriment": ["Libra", "Taurus"],
+      "fall": ["Cancer"],
+      "joy_house": 6
+    },
+    "Jupiter": {
+      "domicile": ["Sagittarius", "Pisces"],
+      "exaltation": ["Cancer"],
+      "detriment": ["Gemini", "Virgo"],
+      "fall": ["Capricorn"],
+      "joy_house": 11
+    },
+    "Saturn": {
+      "domicile": ["Capricorn", "Aquarius"],
+      "exaltation": ["Libra"],
+      "detriment": ["Cancer", "Leo"],
+      "fall": ["Aries"],
+      "joy_house": 12
+    },
+    "Uranus": {
+      "domicile": ["Aquarius"],
+      "exaltation": ["Scorpio"],
+      "detriment": ["Leo"],
+      "fall": ["Taurus"],
+      "joy_house": null
+    },
+    "Neptune": {
+      "domicile": ["Pisces"],
+      "exaltation": ["Cancer"],
+      "detriment": ["Virgo"],
+      "fall": ["Capricorn"],
+      "joy_house": null
+    },
+    "Pluto": {
+      "domicile": ["Scorpio"],
+      "exaltation": ["Aries"],
+      "detriment": ["Taurus"],
+      "fall": ["Libra"],
+      "joy_house": null
+    }
+  },
+  "sign_rulers": {
+    "Aries": {"traditional": "Mars", "modern": "Mars"},
+    "Taurus": {"traditional": "Venus", "modern": "Venus"},
+    "Gemini": {"traditional": "Mercury", "modern": "Mercury"},
+    "Cancer": {"traditional": "Moon", "modern": "Moon"},
+    "Leo": {"traditional": "Sun", "modern": "Sun"},
+    "Virgo": {"traditional": "Mercury", "modern": "Mercury"},
+    "Libra": {"traditional": "Venus", "modern": "Venus"},
+    "Scorpio": {"traditional": "Mars", "modern": "Pluto"},
+    "Sagittarius": {"traditional": "Jupiter", "modern": "Jupiter"},
+    "Capricorn": {"traditional": "Saturn", "modern": "Saturn"},
+    "Aquarius": {"traditional": "Saturn", "modern": "Uranus"},
+    "Pisces": {"traditional": "Jupiter", "modern": "Neptune"}
+  },
+  "exaltation_degrees": {
+    "Sun": {"sign": "Aries", "degree": 19},
+    "Moon": {"sign": "Taurus", "degree": 3},
+    "Mercury": {"sign": "Virgo", "degree": 15},
+    "Venus": {"sign": "Pisces", "degree": 27},
+    "Mars": {"sign": "Capricorn", "degree": 28},
+    "Jupiter": {"sign": "Cancer", "degree": 15},
+    "Saturn": {"sign": "Libra", "degree": 21}
+  },
+  "triplicity_rulers": {
+    "Fire": {"day": "Sun", "night": "Jupiter", "participating": "Saturn"},
+    "Earth": {"day": "Venus", "night": "Moon", "participating": "Mars"},
+    "Air": {"day": "Saturn", "night": "Mercury", "participating": "Jupiter"},
+    "Water": {"day": "Venus", "night": "Mars", "participating": "Moon"}
+  },
+  "elements": {
+    "Fire": ["Aries", "Leo", "Sagittarius"],
+    "Earth": ["Taurus", "Virgo", "Capricorn"],
+    "Air": ["Gemini", "Libra", "Aquarius"],
+    "Water": ["Cancer", "Scorpio", "Pisces"]
+  },
+  "modalities": {
+    "Cardinal": ["Aries", "Cancer", "Libra", "Capricorn"],
+    "Fixed": ["Taurus", "Leo", "Scorpio", "Aquarius"],
+    "Mutable": ["Gemini", "Virgo", "Sagittarius", "Pisces"]
+  }
+}

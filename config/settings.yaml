@@ -1,0 +1,40 @@
+# Astrology Tool Settings
+
+tuvi:
+  # Phái Tử Vi: traditional, modern, trung_chau, thai_at
+  school: traditional
+
+western:
+  # House system: placidus, whole_sign, koch, equal, campanus, regiomontanus
+  house_system: placidus
+  # Zodiac: tropical, sidereal
+  zodiac_type: tropical
+  # Ayanamsa (only for sidereal): lahiri, raman, krishnamurti, fagan_bradley
+  ayanamsa: null
+  # Include additional points
+  include_asteroids: true
+  include_fixed_stars: true
+  include_arabic_parts: true
+  include_lunar_nodes: true
+  include_lilith: true
+  # Orb settings (degrees)
+  orb_major: 8.0  # Conjunction, Opposition, Trine, Square, Sextile
+  orb_minor: 2.0  # Semi-sextile, Quincunx, etc.
+
+ai:
+  provider: deepseek
+  model: deepseek-chat
+  max_tokens: 8000
+  temperature: 0.7
+
+output:
+  # Default output format: markdown, json, both
+  format: both
+  # Include raw chart data in output
+  include_raw_data: true
+  # Output directory
+  directory: ./output
+
+# Analysis defaults
+defaults:
+  analysis_year: 2025

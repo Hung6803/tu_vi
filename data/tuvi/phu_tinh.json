@@ -1,0 +1,318 @@
+{
+  "description": "Phụ tinh Tử Vi Đẩu Số - 40+ sao phụ",
+  "by_can_nam": {
+    "description": "Sao an theo Can năm sinh",
+    "Lộc Tồn": {
+      "meaning": "Sao tài lộc, may mắn",
+      "element": "Thổ",
+      "nature": "Cát tinh",
+      "positions": {
+        "Giáp": "Dần", "Ất": "Mão", "Bính": "Tỵ", "Đinh": "Ngọ", "Mậu": "Tỵ",
+        "Kỷ": "Ngọ", "Canh": "Thân", "Tân": "Dậu", "Nhâm": "Hợi", "Quý": "Tý"
+      }
+    },
+    "Kình Dương": {
+      "meaning": "Sao sát, cương mãnh",
+      "element": "Kim",
+      "nature": "Sát tinh",
+      "positions": {
+        "Giáp": "Mão", "Ất": "Thìn", "Bính": "Ngọ", "Đinh": "Mùi", "Mậu": "Ngọ",
+        "Kỷ": "Mùi", "Canh": "Dậu", "Tân": "Tuất", "Nhâm": "Tý", "Quý": "Sửu"
+      }
+    },
+    "Đà La": {
+      "meaning": "Sao sát, chậm chạp",
+      "element": "Kim",
+      "nature": "Sát tinh",
+      "positions": {
+        "Giáp": "Sửu", "Ất": "Dần", "Bính": "Thìn", "Đinh": "Tỵ", "Mậu": "Thìn",
+        "Kỷ": "Tỵ", "Canh": "Mùi", "Tân": "Thân", "Nhâm": "Tuất", "Quý": "Hợi"
+      }
+    },
+    "Thiên Khôi": {
+      "meaning": "Sao quý nhân ban ngày",
+      "element": "Hỏa",
+      "nature": "Cát tinh",
+      "positions": {
+        "Giáp": "Sửu", "Ất": "Tý", "Bính": "Hợi", "Đinh": "Dậu", "Mậu": "Sửu",
+        "Kỷ": "Tý", "Canh": "Mùi", "Tân": "Ngọ", "Nhâm": "Mão", "Quý": "Mão"
+      }
+    },
+    "Thiên Việt": {
+      "meaning": "Sao quý nhân ban đêm",
+      "element": "Hỏa",
+      "nature": "Cát tinh",
+      "positions": {
+        "Giáp": "Mùi", "Ất": "Thân", "Bính": "Dậu", "Đinh": "Hợi", "Mậu": "Mùi",
+        "Kỷ": "Thân", "Canh": "Dần", "Tân": "Tý", "Nhâm": "Tỵ", "Quý": "Tỵ"
+      }
+    },
+    "Thiên Quan": {
+      "meaning": "Sao quan lộc",
+      "element": "Thủy",
+      "nature": "Cát tinh",
+      "positions": {
+        "Giáp": "Mùi", "Ất": "Thìn", "Bính": "Dậu", "Đinh": "Hợi", "Mậu": "Mùi",
+        "Kỷ": "Thìn", "Canh": "Dậu", "Tân": "Hợi", "Nhâm": "Mùi", "Quý": "Thìn"
+      }
+    },
+    "Thiên Phúc": {
+      "meaning": "Sao phúc đức",
+      "element": "Thủy",
+      "nature": "Cát tinh",
+      "positions": {
+        "Giáp": "Dậu", "Ất": "Thân", "Bính": "Tý", "Đinh": "Hợi", "Mậu": "Mão",
+        "Kỷ": "Dần", "Canh": "Ngọ", "Tân": "Tỵ", "Nhâm": "Ngọ", "Quý": "Tỵ"
+      }
+    }
+  },
+  "by_chi_nam": {
+    "description": "Sao an theo Chi năm sinh",
+    "Thiên Mã": {
+      "meaning": "Sao di chuyển, xuất ngoại",
+      "element": "Hỏa",
+      "nature": "Cát tinh",
+      "positions": {
+        "Tý": "Dần", "Sửu": "Hợi", "Dần": "Thân", "Mão": "Tỵ",
+        "Thìn": "Dần", "Tỵ": "Hợi", "Ngọ": "Thân", "Mùi": "Tỵ",
+        "Thân": "Dần", "Dậu": "Hợi", "Tuất": "Thân", "Hợi": "Tỵ"
+      }
+    },
+    "Hoa Cái": {
+      "meaning": "Sao văn chương, nghệ thuật",
+      "element": "Kim",
+      "nature": "Trung tính",
+      "positions": {
+        "Tý": "Thìn", "Sửu": "Sửu", "Dần": "Tuất", "Mão": "Mùi",
+        "Thìn": "Thìn", "Tỵ": "Sửu", "Ngọ": "Tuất", "Mùi": "Mùi",
+        "Thân": "Thìn", "Dậu": "Sửu", "Tuất": "Tuất", "Hợi": "Mùi"
+      }
+    },
+    "Hồng Loan": {
+      "meaning": "Sao đào hoa, hôn nhân",
+      "element": "Thủy",
+      "nature": "Cát tinh",
+      "positions": {
+        "Tý": "Mão", "Sửu": "Dần", "Dần": "Sửu", "Mão": "Tý",
+        "Thìn": "Hợi", "Tỵ": "Tuất", "Ngọ": "Dậu", "Mùi": "Thân",
+        "Thân": "Mùi", "Dậu": "Ngọ", "Tuất": "Tỵ", "Hợi": "Thìn"
+      }
+    },
+    "Thiên Hỷ": {
+      "meaning": "Sao vui mừng, tin tốt",
+      "element": "Thủy",
+      "nature": "Cát tinh",
+      "positions": {
+        "Tý": "Dậu", "Sửu": "Thân", "Dần": "Mùi", "Mão": "Ngọ",
+        "Thìn": "Tỵ", "Tỵ": "Thìn", "Ngọ": "Mão", "Mùi": "Dần",
+        "Thân": "Sửu", "Dậu": "Tý", "Tuất": "Hợi", "Hợi": "Tuất"
+      }
+    },
+    "Cô Thần": {
+      "meaning": "Sao cô đơn nam",
+      "element": "Hỏa",
+      "nature": "Hung tinh",
+      "positions": {
+        "Tý": "Dần", "Sửu": "Dần", "Dần": "Tỵ", "Mão": "Tỵ",
+        "Thìn": "Tỵ", "Tỵ": "Thân", "Ngọ": "Thân", "Mùi": "Thân",
+        "Thân": "Hợi", "Dậu": "Hợi", "Tuất": "Hợi", "Hợi": "Dần"
+      }
+    },
+    "Quả Tú": {
+      "meaning": "Sao cô đơn nữ",
+      "element": "Hỏa",
+      "nature": "Hung tinh",
+      "positions": {
+        "Tý": "Tuất", "Sửu": "Tuất", "Dần": "Sửu", "Mão": "Sửu",
+        "Thìn": "Sửu", "Tỵ": "Thìn", "Ngọ": "Thìn", "Mùi": "Thìn",
+        "Thân": "Mùi", "Dậu": "Mùi", "Tuất": "Mùi", "Hợi": "Tuất"
+      }
+    },
+    "Đào Hoa": {
+      "meaning": "Sao đào hoa, quyến rũ",
+      "element": "Thủy",
+      "nature": "Trung tính",
+      "positions": {
+        "Tý": "Dậu", "Sửu": "Ngọ", "Dần": "Mão", "Mão": "Tý",
+        "Thìn": "Dậu", "Tỵ": "Ngọ", "Ngọ": "Mão", "Mùi": "Tý",
+        "Thân": "Dậu", "Dậu": "Ngọ", "Tuất": "Mão", "Hợi": "Tý"
+      }
+    },
+    "Phá Toái": {
+      "meaning": "Sao phá hoại",
+      "element": "Hỏa",
+      "nature": "Hung tinh",
+      "positions": {
+        "Tý": "Tỵ", "Sửu": "Sửu", "Dần": "Dậu", "Mão": "Tỵ",
+        "Thìn": "Sửu", "Tỵ": "Dậu", "Ngọ": "Tỵ", "Mùi": "Sửu",
+        "Thân": "Dậu", "Dậu": "Tỵ", "Tuất": "Sửu", "Hợi": "Dậu"
+      }
+    }
+  },
+  "by_month": {
+    "description": "Sao an theo Tháng âm lịch",
+    "Tả Phụ": {
+      "meaning": "Sao quý nhân bên trái",
+      "element": "Thổ",
+      "nature": "Cát tinh",
+      "positions": {
+        "1": "Thìn", "2": "Tỵ", "3": "Ngọ", "4": "Mùi",
+        "5": "Thân", "6": "Dậu", "7": "Tuất", "8": "Hợi",
+        "9": "Tý", "10": "Sửu", "11": "Dần", "12": "Mão"
+      }
+    },
+    "Hữu Bật": {
+      "meaning": "Sao quý nhân bên phải",
+      "element": "Thủy",
+      "nature": "Cát tinh",
+      "positions": {
+        "1": "Tuất", "2": "Dậu", "3": "Thân", "4": "Mùi",
+        "5": "Ngọ", "6": "Tỵ", "7": "Thìn", "8": "Mão",
+        "9": "Dần", "10": "Sửu", "11": "Tý", "12": "Hợi"
+      }
+    },
+    "Thiên Hình": {
+      "meaning": "Sao hình phạt",
+      "element": "Hỏa",
+      "nature": "Hung tinh",
+      "positions": {
+        "1": "Dậu", "2": "Tuất", "3": "Hợi", "4": "Tý",
+        "5": "Sửu", "6": "Dần", "7": "Mão", "8": "Thìn",
+        "9": "Tỵ", "10": "Ngọ", "11": "Mùi", "12": "Thân"
+      }
+    },
+    "Thiên Riêu": {
+      "meaning": "Sao đào hoa, dâm đãng",
+      "element": "Thủy",
+      "nature": "Trung tính",
+      "positions": {
+        "1": "Dậu", "2": "Tuất", "3": "Hợi", "4": "Tý",
+        "5": "Sửu", "6": "Dần", "7": "Mão", "8": "Thìn",
+        "9": "Tỵ", "10": "Ngọ", "11": "Mùi", "12": "Thân"
+      }
+    }
+  },
+  "by_hour": {
+    "description": "Sao an theo Giờ sinh",
+    "Văn Xương": {
+      "meaning": "Sao văn chương, học vấn",
+      "element": "Kim",
+      "nature": "Cát tinh",
+      "positions": {
+        "Tý": "Tuất", "Sửu": "Dậu", "Dần": "Thân", "Mão": "Mùi",
+        "Thìn": "Ngọ", "Tỵ": "Tỵ", "Ngọ": "Thìn", "Mùi": "Mão",
+        "Thân": "Dần", "Dậu": "Sửu", "Tuất": "Tý", "Hợi": "Hợi"
+      }
+    },
+    "Văn Khúc": {
+      "meaning": "Sao tài năng, nghệ thuật",
+      "element": "Thủy",
+      "nature": "Cát tinh",
+      "positions": {
+        "Tý": "Thìn", "Sửu": "Tỵ", "Dần": "Ngọ", "Mão": "Mùi",
+        "Thìn": "Thân", "Tỵ": "Dậu", "Ngọ": "Tuất", "Mùi": "Hợi",
+        "Thân": "Tý", "Dậu": "Sửu", "Tuất": "Dần", "Hợi": "Mão"
+      }
+    },
+    "Địa Không": {
+      "meaning": "Sao trống rỗng, tiêu hao",
+      "element": "Hỏa",
+      "nature": "Hung tinh",
+      "positions": {
+        "Tý": "Hợi", "Sửu": "Tuất", "Dần": "Dậu", "Mão": "Thân",
+        "Thìn": "Mùi", "Tỵ": "Ngọ", "Ngọ": "Tỵ", "Mùi": "Thìn",
+        "Thân": "Mão", "Dậu": "Dần", "Tuất": "Sửu", "Hợi": "Tý"
+      }
+    },
+    "Địa Kiếp": {
+      "meaning": "Sao tai họa, tiêu hao",
+      "element": "Hỏa",
+      "nature": "Hung tinh",
+      "positions": {
+        "Tý": "Hợi", "Sửu": "Tý", "Dần": "Sửu", "Mão": "Dần",
+        "Thìn": "Mão", "Tỵ": "Thìn", "Ngọ": "Tỵ", "Mùi": "Ngọ",
+        "Thân": "Mùi", "Dậu": "Thân", "Tuất": "Dậu", "Hợi": "Tuất"
+      }
+    },
+    "Hỏa Tinh": {
+      "meaning": "Sao hỏa, nóng nảy",
+      "element": "Hỏa",
+      "nature": "Sát tinh",
+      "by_chi_nam_and_hour": {
+        "Dần_Ngọ_Tuất": {
+          "Tý": "Sửu", "Sửu": "Dần", "Dần": "Mão", "Mão": "Thìn",
+          "Thìn": "Tỵ", "Tỵ": "Ngọ", "Ngọ": "Mùi", "Mùi": "Thân",
+          "Thân": "Dậu", "Dậu": "Tuất", "Tuất": "Hợi", "Hợi": "Tý"
+        },
+        "Thân_Tý_Thìn": {
+          "Tý": "Dần", "Sửu": "Mão", "Dần": "Thìn", "Mão": "Tỵ",
+          "Thìn": "Ngọ", "Tỵ": "Mùi", "Ngọ": "Thân", "Mùi": "Dậu",
+          "Thân": "Tuất", "Dậu": "Hợi", "Tuất": "Tý", "Hợi": "Sửu"
+        },
+        "Tỵ_Dậu_Sửu": {
+          "Tý": "Tuất", "Sửu": "Hợi", "Dần": "Tý", "Mão": "Sửu",
+          "Thìn": "Dần", "Tỵ": "Mão", "Ngọ": "Thìn", "Mùi": "Tỵ",
+          "Thân": "Ngọ", "Dậu": "Mùi", "Tuất": "Thân", "Hợi": "Dậu"
+        },
+        "Hợi_Mão_Mùi": {
+          "Tý": "Dậu", "Sửu": "Tuất", "Dần": "Hợi", "Mão": "Tý",
+          "Thìn": "Sửu", "Tỵ": "Dần", "Ngọ": "Mão", "Mùi": "Thìn",
+          "Thân": "Tỵ", "Dậu": "Ngọ", "Tuất": "Mùi", "Hợi": "Thân"
+        }
+      }
+    },
+    "Linh Tinh": {
+      "meaning": "Sao linh, bất ngờ",
+      "element": "Hỏa",
+      "nature": "Sát tinh",
+      "by_chi_nam_and_hour": {
+        "Dần_Ngọ_Tuất": {
+          "Tý": "Mão", "Sửu": "Thìn", "Dần": "Tỵ", "Mão": "Ngọ",
+          "Thìn": "Mùi", "Tỵ": "Thân", "Ngọ": "Dậu", "Mùi": "Tuất",
+          "Thân": "Hợi", "Dậu": "Tý", "Tuất": "Sửu", "Hợi": "Dần"
+        },
+        "Thân_Tý_Thìn": {
+          "Tý": "Tuất", "Sửu": "Hợi", "Dần": "Tý", "Mão": "Sửu",
+          "Thìn": "Dần", "Tỵ": "Mão", "Ngọ": "Thìn", "Mùi": "Tỵ",
+          "Thân": "Ngọ", "Dậu": "Mùi", "Tuất": "Thân", "Hợi": "Dậu"
+        },
+        "Tỵ_Dậu_Sửu": {
+          "Tý": "Tuất", "Sửu": "Hợi", "Dần": "Tý", "Mão": "Sửu",
+          "Thìn": "Dần", "Tỵ": "Mão", "Ngọ": "Thìn", "Mùi": "Tỵ",
+          "Thân": "Ngọ", "Dậu": "Mùi", "Tuất": "Thân", "Hợi": "Dậu"
+        },
+        "Hợi_Mão_Mùi": {
+          "Tý": "Tuất", "Sửu": "Hợi", "Dần": "Tý", "Mão": "Sửu",
+          "Thìn": "Dần", "Tỵ": "Mão", "Ngọ": "Thìn", "Mùi": "Tỵ",
+          "Thân": "Ngọ", "Dậu": "Mùi", "Tuất": "Thân", "Hợi": "Dậu"
+        }
+      }
+    }
+  },
+  "by_lunar_day": {
+    "description": "Sao an theo Ngày âm lịch",
+    "Tam Thai": {
+      "meaning": "Sao tam thai",
+      "nature": "Cát tinh",
+      "formula": "Vị trí = (Ngày - 1) % 12, tính từ cung Thìn thuận chiều"
+    },
+    "Bát Tọa": {
+      "meaning": "Sao bát tọa",
+      "nature": "Cát tinh",
+      "formula": "Vị trí = (Ngày - 1) % 12, tính từ cung Tuất nghịch chiều"
+    }
+  },
+  "fixed_positions": {
+    "description": "Sao có vị trí cố định",
+    "Thiên Thương": {
+      "meaning": "Sao thương tổn",
+      "position": "Ngọ",
+      "nature": "Hung tinh"
+    },
+    "Thiên Sứ": {
+      "meaning": "Sao sứ giả",
+      "position": "Tuất",
+      "nature": "Hung tinh"
+    }
+  }
+}

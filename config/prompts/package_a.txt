@@ -1,0 +1,104 @@
+# Gói A: Chân dung Bản thân (Personal Portrait)
+
+Hãy phân tích và viết một bản luận giải toàn diện về **Chân dung Bản thân** cho người được xem, dựa trên dữ liệu Tử Vi Đẩu Số và Western Astrology được cung cấp.
+
+## Cấu trúc bài viết
+
+### 1. TỔNG QUAN (300-500 từ)
+- Giới thiệu ngắn gọn về lá số/chart
+- Những điểm nổi bật nhất định hình con người này
+- Kết hợp insights từ cả Tử Vi và Western
+
+### 2. TÍNH CÁCH CỐT LÕI (500-800 từ)
+
+#### Từ góc độ Tử Vi Đẩu Số:
+- Phân tích Mệnh cung và các sao tọa thủ
+- Ảnh hưởng của Thân cung
+- Tứ Hóa trong Mệnh (nếu có)
+- Các cách cục đặc biệt
+
+#### Từ góc độ Western:
+- Sun sign - bản ngã và ý chí
+- Moon sign - đời sống nội tâm
+- Rising sign (ASC) - ấn tượng bên ngoài
+- Chart patterns nổi bật
+
+#### Kết hợp:
+- Điểm tương đồng giữa hai hệ thống
+- Điểm khác biệt và cách hài hòa
+
+### 3. ĐIỂM MẠNH & TÀI NĂNG (400-600 từ)
+- Những khả năng bẩm sinh
+- Lĩnh vực có thể phát triển
+- Cách tận dụng điểm mạnh
+- Từ Tử Vi: Các sao tốt, miếu/vượng địa
+- Từ Western: Dignities mạnh, aspects hài hòa
+
+### 4. ĐIỂM YẾU & THÁCH THỨC (400-600 từ)
+- Những khó khăn có thể gặp
+- Xu hướng tiêu cực cần cảnh giác
+- Cách khắc phục và cải thiện
+- Từ Tử Vi: Các sao xấu, Tứ Hóa Kỵ
+- Từ Western: Dignities yếu, aspects căng thẳng
+
+### 5. ĐỜI SỐNG CẢM XÚC (300-500 từ)
+- Cách xử lý cảm xúc
+- Nhu cầu tình cảm
+- Mẫu người hấp dẫn
+- Từ Moon sign và Phu thê cung
+
+### 6. SỰ NGHIỆP & TÀI CHÍNH (400-600 từ)
+- Xu hướng nghề nghiệp phù hợp
+- Cách kiếm tiền và quản lý tài chính
+- Tiềm năng phát triển sự nghiệp
+- Từ Tử Vi: Quan lộc, Tài bạch, Sự nghiệp cung
+- Từ Western: MC, House 2, 6, 10
+
+### 7. MỐI QUAN HỆ (300-500 từ)
+- Cách giao tiếp và kết nối
+- Mẫu người phù hợp trong tình yêu/hôn nhân
+- Quan hệ gia đình và bạn bè
+- Từ Tử Vi: Phu thê, Phúc đức
+- Từ Western: Venus, House 7, 11
+
+### 8. SỨC KHỎE & NĂNG LƯỢNG (200-300 từ)
+- Điểm cần chú ý về sức khỏe
+- Cách duy trì năng lượng
+- Từ Tật ách cung và element balance
+
+### 9. CON ĐƯỜNG PHÁT TRIỂN (300-400 từ)
+- Bài học cuộc đời
+- Hướng phát triển tâm linh
+- Mục tiêu và ý nghĩa cuộc sống
+- Từ Thân cung và Lunar Nodes
+
+### 10. LỜI KHUYÊN TỔNG HỢP (200-300 từ)
+- Tóm tắt những điều quan trọng nhất
+- Lời khuyên thực tế cho cuộc sống
+- Những điều nên làm và nên tránh
+
+## Quy tắc viết
+
+1. **Độ dài**: 3000-5000 từ tổng cộng
+2. **Văn phong**: Chuyên nghiệp nhưng dễ hiểu, như đang nói chuyện với người đọc
+3. **Cân bằng**: Không quá tích cực cũng không quá tiêu cực
+4. **Cụ thể**: Đưa ra ví dụ và tình huống thực tế
+5. **Kết nối**: Liên kết giữa các phần để tạo bức tranh toàn diện
+6. **Hành động**: Đề xuất các bước cụ thể người đọc có thể thực hiện
+
+## Format output
+
+- Sử dụng Markdown formatting
+- Có tiêu đề và tiêu đề phụ rõ ràng
+- Sử dụng bullet points khi liệt kê
+- Highlight những điểm quan trọng bằng **bold**
+- Có thể sử dụng emoji một cách tiết chế để tăng sinh động
+
+## Dữ liệu đầu vào
+
+Bạn sẽ nhận được:
+1. Thông tin cá nhân (tên, ngày sinh, giờ sinh, nơi sinh)
+2. Dữ liệu Tử Vi Đẩu Số đầy đủ (12 cung, các sao, Tứ Hóa, Đại Hạn)
+3. Dữ liệu Western Chart (planets, houses, aspects, patterns)
+
+Hãy phân tích kỹ lưỡng tất cả dữ liệu và viết bài luận giải hoàn chỉnh.

@@ -1,0 +1,233 @@
+{
+  "version": "1.0",
+  "description": "Aspect definitions for Western Astrology",
+  "major_aspects": {
+    "Conjunction": {
+      "angle": 0,
+      "symbol": "☌",
+      "orb_default": 10,
+      "orb_by_planet": {
+        "Sun": 10,
+        "Moon": 10,
+        "Mercury": 7,
+        "Venus": 7,
+        "Mars": 8,
+        "Jupiter": 9,
+        "Saturn": 9,
+        "Uranus": 5,
+        "Neptune": 5,
+        "Pluto": 5
+      },
+      "nature": "neutral",
+      "is_harmonious": null,
+      "name_vi": "Hợp",
+      "description": "Fusion of energies, intensification",
+      "description_vi": "Hợp nhất năng lượng, tăng cường"
+    },
+    "Sextile": {
+      "angle": 60,
+      "symbol": "⚹",
+      "orb_default": 6,
+      "orb_by_planet": {
+        "Sun": 6,
+        "Moon": 6,
+        "Mercury": 5,
+        "Venus": 5,
+        "Mars": 5,
+        "Jupiter": 6,
+        "Saturn": 6,
+        "Uranus": 4,
+        "Neptune": 4,
+        "Pluto": 4
+      },
+      "nature": "harmonious",
+      "is_harmonious": true,
+      "name_vi": "Lục hợp",
+      "description": "Opportunity, talent, ease",
+      "description_vi": "Cơ hội, tài năng, thuận lợi"
+    },
+    "Square": {
+      "angle": 90,
+      "symbol": "□",
+      "orb_default": 8,
+      "orb_by_planet": {
+        "Sun": 8,
+        "Moon": 8,
+        "Mercury": 6,
+        "Venus": 6,
+        "Mars": 7,
+        "Jupiter": 8,
+        "Saturn": 8,
+        "Uranus": 5,
+        "Neptune": 5,
+        "Pluto": 5
+      },
+      "nature": "challenging",
+      "is_harmonious": false,
+      "name_vi": "Vuông góc",
+      "description": "Tension, challenge, action required",
+      "description_vi": "Căng thẳng, thử thách, cần hành động"
+    },
+    "Trine": {
+      "angle": 120,
+      "symbol": "△",
+      "orb_default": 8,
+      "orb_by_planet": {
+        "Sun": 8,
+        "Moon": 8,
+        "Mercury": 6,
+        "Venus": 6,
+        "Mars": 7,
+        "Jupiter": 8,
+        "Saturn": 8,
+        "Uranus": 5,
+        "Neptune": 5,
+        "Pluto": 5
+      },
+      "nature": "harmonious",
+      "is_harmonious": true,
+      "name_vi": "Tam hợp",
+      "description": "Flow, ease, natural talent",
+      "description_vi": "Thuận lợi, dễ dàng, tài năng tự nhiên"
+    },
+    "Opposition": {
+      "angle": 180,
+      "symbol": "☍",
+      "orb_default": 10,
+      "orb_by_planet": {
+        "Sun": 10,
+        "Moon": 10,
+        "Mercury": 7,
+        "Venus": 7,
+        "Mars": 8,
+        "Jupiter": 9,
+        "Saturn": 9,
+        "Uranus": 5,
+        "Neptune": 5,
+        "Pluto": 5
+      },
+      "nature": "challenging",
+      "is_harmonious": false,
+      "name_vi": "Đối xứng",
+      "description": "Polarity, awareness, projection",
+      "description_vi": "Đối lập, nhận thức, phản chiếu"
+    }
+  },
+  "minor_aspects": {
+    "Semi-sextile": {
+      "angle": 30,
+      "symbol": "⚺",
+      "orb_default": 2,
+      "nature": "neutral",
+      "is_harmonious": null,
+      "name_vi": "Bán lục hợp",
+      "description": "Mild irritation, adjustment needed"
+    },
+    "Semi-square": {
+      "angle": 45,
+      "symbol": "∠",
+      "orb_default": 2,
+      "nature": "challenging",
+      "is_harmonious": false,
+      "name_vi": "Bán vuông",
+      "description": "Friction, minor tension"
+    },
+    "Sesquiquadrate": {
+      "angle": 135,
+      "symbol": "⚼",
+      "orb_default": 2,
+      "nature": "challenging",
+      "is_harmonious": false,
+      "name_vi": "Một rưỡi vuông",
+      "description": "Agitation, restlessness"
+    },
+    "Quincunx": {
+      "angle": 150,
+      "symbol": "⚻",
+      "orb_default": 3,
+      "nature": "challenging",
+      "is_harmonious": false,
+      "name_vi": "Quincunx",
+      "description": "Adjustment, health matters, incompatibility"
+    },
+    "Quintile": {
+      "angle": 72,
+      "symbol": "Q",
+      "orb_default": 2,
+      "nature": "harmonious",
+      "is_harmonious": true,
+      "name_vi": "Ngũ phân",
+      "description": "Creativity, talent, unique gifts"
+    },
+    "Biquintile": {
+      "angle": 144,
+      "symbol": "bQ",
+      "orb_default": 2,
+      "nature": "harmonious",
+      "is_harmonious": true,
+      "name_vi": "Song ngũ phân",
+      "description": "Creative expression, special abilities"
+    }
+  },
+  "aspect_patterns": {
+    "Grand Trine": {
+      "aspects": ["Trine", "Trine", "Trine"],
+      "planets_required": 3,
+      "description": "Flow of energy in same element, natural talent",
+      "description_vi": "Tam giác hài hòa cùng nguyên tố, tài năng tự nhiên"
+    },
+    "T-Square": {
+      "aspects": ["Opposition", "Square", "Square"],
+      "planets_required": 3,
+      "description": "Dynamic tension requiring action, focal planet",
+      "description_vi": "Tam giác căng thẳng, cần hành động, hành tinh tiêu điểm"
+    },
+    "Grand Cross": {
+      "aspects": ["Opposition", "Opposition", "Square", "Square", "Square", "Square"],
+      "planets_required": 4,
+      "description": "Major tension from four directions, powerful drive",
+      "description_vi": "Thập tự lớn, căng thẳng bốn hướng, động lực mạnh"
+    },
+    "Yod": {
+      "aspects": ["Quincunx", "Quincunx", "Sextile"],
+      "planets_required": 3,
+      "description": "Finger of fate, special mission, karmic purpose",
+      "description_vi": "Ngón tay định mệnh, sứ mệnh đặc biệt, mục đích nghiệp"
+    },
+    "Kite": {
+      "aspects": ["Grand Trine", "Opposition", "Sextile", "Sextile"],
+      "planets_required": 4,
+      "description": "Grand trine with outlet, productive talent",
+      "description_vi": "Tam giác hài hòa có lối thoát, tài năng hiệu quả"
+    },
+    "Mystic Rectangle": {
+      "aspects": ["Opposition", "Opposition", "Sextile", "Sextile", "Trine", "Trine"],
+      "planets_required": 4,
+      "description": "Balanced structure, practical mysticism",
+      "description_vi": "Cấu trúc cân bằng, huyền bí thực tế"
+    },
+    "Stellium": {
+      "planets_required": 3,
+      "max_orb_degrees": 8,
+      "description": "Concentration of planets in one sign/house",
+      "description_vi": "Tập trung nhiều hành tinh trong một cung/nhà"
+    }
+  },
+  "planet_weights": {
+    "Sun": 1.0,
+    "Moon": 1.0,
+    "Mercury": 0.8,
+    "Venus": 0.8,
+    "Mars": 0.9,
+    "Jupiter": 0.9,
+    "Saturn": 0.9,
+    "Uranus": 0.7,
+    "Neptune": 0.7,
+    "Pluto": 0.7,
+    "North Node": 0.5,
+    "South Node": 0.5,
+    "Chiron": 0.5,
+    "ASC": 1.0,
+    "MC": 1.0
+  }
+}
