@@ -9,8 +9,9 @@ import streamlit as st
 from datetime import datetime, date, time
 from typing import Optional
 
-# Set Mimo API key
-os.environ["MIMO_API_KEY"] = "sk-sje55hykbxti0cbgc88q78sex2kup8q0wnae1l08jicbvbu7"
+# Load environment variables from .env
+from dotenv import load_dotenv
+load_dotenv()
 
 # Import local packages
 from src.models.input_models import BirthData, PartialBirthData
