@@ -1,0 +1,25 @@
+[server]
+# Cho phép truy cập từ bên ngoài (0.0.0.0 = tất cả interfaces)
+address = "0.0.0.0"
+port = 8501
+
+# Chạy ở chế độ headless (không mở browser tự động)
+headless = true
+
+# Cho phép CORS từ các domain khác
+enableCORS = false
+enableXsrfProtection = false
+
+# Giới hạn upload file (MB)
+maxUploadSize = 10
+
+[browser]
+# Không tự động mở browser
+gatherUsageStats = false
+
+[theme]
+# Có thể tùy chỉnh theme ở đây
+# primaryColor = "#667eea"
+# backgroundColor = "#ffffff"
+# secondaryBackgroundColor = "#f0f2f6"
+# textColor = "#262730"
